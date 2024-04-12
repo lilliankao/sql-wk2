@@ -13,4 +13,8 @@
 -- | 2020 | Washington Nationals              |
 -- +------+-----------------------------------+
 
+SELECT year, name
+FROM teams;
 
+.mode column
+.headers on
