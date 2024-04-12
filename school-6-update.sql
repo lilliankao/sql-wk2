@@ -1,2 +1,2 @@
-UPDATE students SET emails="janedoe@gmail.com"
+UPDATE students SET email="janedoe@gmail.com"
 WHERE id = 1;
